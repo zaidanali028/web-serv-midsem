@@ -1,0 +1,12 @@
+1. /facebook/posts/post/content
+XPath Expression 1: Retrieve the content of all posts
+
+2. count(/facebook/posts/post/likes/like)
+XPath Expression 2: Count the number of likes for each post
+
+3. /facebook/posts/post[@id='4']/comments/comment/../@userId
+XPath Expression 3: Find the names of users who commented on post with id="4"
+
+Construct an Xml document for one of the micro blogging sites of your  groups choice,
+,execute 3 Xpath expressions and use XSLT to transform document . 
+Set up your github account to display results

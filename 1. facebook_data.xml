@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facebook>
+   <users>
+      <user id="1">
+         <name>Elijah Scott</name>
+         <email>derekgraves@example.net</email>
+      </user>
+      <user id="2">
+         <name>Rhonda Martin</name>
+         <email>sullivandarius@example.com</email>
+      </user>
+      <user id="3">
+         <name>Michael Mitchell</name>
+         <email>opruitt@example.com</email>
+      </user>
+   </users>
+   <posts>
+      <post id="1" userId="1">
+         <content>Job government size probably pressure professional. Human hospital responsibility glass. Ability ability case draw.</content>
+         <likes>
+            <like userId="6" />
+         </likes>
+         <comments>
+            <comment userId="8">Deal away a tonight door section.</comment>
+            <comment userId="4">Manager magazine manager certain to move subject.</comment>
+            <comment userId="5">Then size enter yourself western.</comment>
+         </comments>
+      </post>
+      <post id="2" userId="1">
+         <content>Democratic raise fly smile change ahead. Moment behavior case animal cultural moment rule. With company statement phone.
+Sort clear amount east type speech. Western list identify assume.</content>
+         <likes>
+            <like userId="4" />
+            <like userId="3" />
+            <like userId="6" />
+            <like userId="4" />
+            <like userId="10" />
+            <like userId="9" />
+            <like userId="2" />
+            <like userId="2" />
+            <like userId="10" />
+            <like userId="5" />
+         </likes>
+         <comments>
+            <comment userId="1">Man system name continue others face.</comment>
+            <comment userId="1">Up expect office me wife policy.</comment>
+            <comment userId="4">Education however sort too.</comment>
+         </comments>
+      </post>
+      <post id="3" userId="2">
+         <content>Response concern property southern away responsibility seek cover.
+Range star main draw best small federal.</content>
+         <likes />
+         <comments>
+            <comment userId="6">Box nation so politics tax area fish.</comment>
+            <comment userId="1">My my receive away.</comment>
+            <comment userId="3">Factor page inside health machine.</comment>
+         </comments>
+      </post>
+      <post id="4" userId="2">
+         <content>Before really edge if. Doctor indeed set exactly rich second.
+Crime middle place worry. Should even drug drop Democrat. Shoulder increase expect visit ground.</content>
+         <likes>
+            <like userId="8" />
+            <like userId="7" />
+            <like userId="9" />
+            <like userId="6" />
+            <like userId="10" />
+            <like userId="3" />
+            <like userId="9" />
+            <like userId="9" />
+            <like userId="2" />
+         </likes>
+         <comments>
+            <comment userId="3">Society necessary necessary citizen follow run.</comment>
+            <comment userId="5">May market others.</comment>
+            <comment userId="4">None face hot happy push.</comment>
+         </comments>
+      </post>
+      <post id="5" userId="3">
+         <content>Pressure time control. Raise have question notice yet coach. Born eight trip charge way food nation.
+Never close war usually back term all. Remember magazine system cultural total us.</content>
+         <likes>
+            <like userId="4" />
+            <like userId="2" />
+            <like userId="5" />
+            <like userId="6" />
+            <like userId="10" />
+         </likes>
+         <comments>
+            <comment userId="6">Inside away at.</comment>
+            <comment userId="3">Leader response such between message.</comment>
+            <comment userId="5">Degree worry draw your heart.</comment>
+         </comments>
+      </post>
+      <post id="6" userId="3">
+         <content>List social property protect who set remember. Treatment fact area into lay raise. Should admit force want gas.</content>
+         <likes />
+         <comments>
+            <comment userId="8">Your drug stop parent.</comment>
+            <comment userId="9">Board foreign eye suffer.</comment>
+            <comment userId="9">Job real machine beautiful short.</comment>
+         </comments>
+      </post>
+   </posts>
+</facebook>
