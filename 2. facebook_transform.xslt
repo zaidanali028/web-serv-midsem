@@ -3,7 +3,7 @@
 <!-- Declaration of the XML version and encoding used -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!-- Start of XSLT stylesheet with version 1.0 and namespace declaration -->
-  <xsl:template match="/">
+  <xsl:template match="/facebook">
     <!-- Template to match the root node of the XML document -->
     <html>
       <!-- Start of HTML document -->
