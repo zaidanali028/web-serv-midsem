@@ -1,6 +1,5 @@
 
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Declaration of the XML version and encoding used -->
+
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!-- Start of XSLT stylesheet with version 1.0 and namespace declaration -->
   <xsl:template match="/facebook">
