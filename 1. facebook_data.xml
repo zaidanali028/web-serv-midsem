@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<facebook>
+<?xml-stlesheethref="2. facebook_transform" type="text/xsl" ?>
+<facebook> 
    <users>
       <user id="1">
          <name>Elijah Scott</name>
