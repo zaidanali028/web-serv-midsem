@@ -1,6 +1,6 @@
 # Microblogging XML to HTML Transformer
 
-This project contains an XML document representing microblogging data for GROUP() - WEB SERVICES AND SEMANTIC LANGUAGE CLASS, an XSLT stylesheet to transform the XML data into HTML, and three XPath expressions to query the XML data.
+This project contains an XML document representing microblogging data for GROUP(3) - WEB SERVICES AND SEMANTIC LANGUAGE CLASS, an XSLT stylesheet to transform the XML data into HTML, and three XPath expressions to query the XML data.
 
 
 ## Files
