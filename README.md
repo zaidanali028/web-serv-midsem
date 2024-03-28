@@ -1,12 +1,13 @@
 # Microblogging XML to HTML Transformer
 
-This project contains an XML document representing microblogging data, an XSLT stylesheet to transform the XML data into HTML, and three XPath expressions to query the XML data.
+This project contains an XML document representing microblogging data for GROUP() - WEB SERVICES AND SEMANTIC LANGUAGE CLASS, an XSLT stylesheet to transform the XML data into HTML, and three XPath expressions to query the XML data.
+
 
 ## Files
 
-1. `facebook_data.xml`: XML data file containing sample microblogging posts, comments, and likes.
+1. `facebook_data.xml`: XML data file containing sample microblogging posts, comments,USERS & likes.
 2. `facebook_transform.xslt`: XSLT stylesheet file for transforming the XML data into HTML.
-3. `xpath_expressions.txt`: Text file containing three standard XPath expressions used for querying the XML data.
+3. `xpath_expressions.txt`: Text file containing three(3) standard XPath expressions used for querying the XML data.
 
 ## Usage
 
@@ -24,7 +25,9 @@ To use this project:
 
 ## GitHub Setup
 
-Set up your GitHub account to display the results. Create a repository and upload the XML data, XSLT stylesheet, and any other necessary files. You can then share the repository link with others to access the transformed HTML output.
+1. Fork this repo to your github account
+2. Clone it from your repository 
+3. Utilize it locally or in any other form you prefer
 
 ## License
 
