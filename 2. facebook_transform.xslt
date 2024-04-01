@@ -15,8 +15,7 @@
         <!-- HTML body section -->
         <h1>Facebook Posts</h1>
         <!-- Heading for Facebook Posts -->
-        <xsl:apply-templates select="/facebook/posts/post"/>
-        <!-- Apply transformation templates to each 'post' element under '/facebook/posts/post' -->
+       
       </body>
     </html>
     <!-- End of HTML document -->
